@@ -21,9 +21,9 @@ shellcode:
 
 	xor eax,eax
 	mov ebx, eax
-	add eax, 60
+	add eax, 1 
 	int 0x80
 
 caller:
 	call shellcode
-	message: db "Hello World!"
+	message: db "Hello World!",0xa

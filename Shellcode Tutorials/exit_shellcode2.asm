@@ -10,7 +10,7 @@ segment .text
 	_start:
 		xor eax,eax
 		mov ebx, eax
-		add al, 60
+		add al, 1
 		int 0x80
 
 
