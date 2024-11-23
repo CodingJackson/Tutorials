@@ -1,8 +1,6 @@
 ; Program: This is a simple exit shellcode program; Part 1
-
 ; Author: Paramjot Singh
-; Alias: theprojax
-
+; Alias: belikeParamjot
 
 global _start
 	segment .text

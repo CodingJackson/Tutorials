@@ -1,7 +1,6 @@
 ; Program: This example shellcode is based on RIP relative addressing, using method by removing additional NULLs while using relative addressing
-
 ; Author: Paramjot Singh
-; Alias: theprojax
+; Alias: belikeParamjot
 ; Note: RIP relative addressing is possible only on x64 based assembly
 
 segment .text

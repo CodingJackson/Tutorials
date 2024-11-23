@@ -1,7 +1,7 @@
 ; Program: To illustrate a xor decoding shellcode in x86 assembly using jmp-call-pop technique, whereas x86_64 version is pretty same
-; Code: GuiltySparx
 ; Author: Paramjot Singh
-; Alias: theprojax
+; Alias: belikeParamjot
+
 global _start
 segment .text
 

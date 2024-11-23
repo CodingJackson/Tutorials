@@ -1,7 +1,6 @@
 ; Program: To create a shellcode to print a statement using stack technique
-
 ; Author: Paramjot Singh
-; Alias: theprojax
+; Alias: belikeParamjot
 
 global _start
 

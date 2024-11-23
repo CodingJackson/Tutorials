@@ -1,8 +1,7 @@
 ; Program: This shellcode is an example to figure out the address of labels automatically
 ; Note: As we know, the shellcode is a hex string of bytes and hence labels can't be used to create a shellcode. Thus, we use addresses that are dynamically allocated.
-
 ; Author: Paramjot Singh
-; Alias: theprojax
+; Alias: belikeParamjot
 
 global _start
 

@@ -1,7 +1,6 @@
 ; Program: This is a more compact version of shellcode and more efficient.
-
 ; Author: Paramjot Singh
-; Alias: theprojax
+; Alias: belikeParamjot
 
 global _start
 

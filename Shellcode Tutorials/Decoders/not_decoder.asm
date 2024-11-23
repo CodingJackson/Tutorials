@@ -1,7 +1,6 @@
 ; Program: To illustrate the not decoding in x86 assembly using jmp-call-pop technique.
-; Code: GuiltySparx
 ; Author: Paramjot Singh
-; Alias: theprojax
+; Alias: belikeParamjot
 
 global _start
 
